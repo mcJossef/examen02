@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">examen02</string>
+    <string name="Nombre_cliente">Nombre cliente </string>
+    <string name="Numero_celular">Numero celular</string>
+    <string name="Productos">Productos</string>
+    <string name="Ciudad">Ciudad</string>
+    <string name="Direccion">Direccion</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Registro_de_pedidos">Registro de pedidos</string>
+    <string name="Pedidos">Pedidos</string>
+</resources>
